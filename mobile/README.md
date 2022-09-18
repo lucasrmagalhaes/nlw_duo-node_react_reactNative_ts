@@ -29,3 +29,23 @@ npx expo install react-native-safe-area-context
 ```
 npx expo install expo-linear-gradient
 ```
+
+```
+npm install @react-navigation/native
+```
+
+```
+npx expo install react-native-screens
+```
+
+```
+npm install @react-navigation/native-stack
+```
+
+```
+npm i phosphor-react-native
+```
+
+```
+npx expo install react-native-svg
+```
