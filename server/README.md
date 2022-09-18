@@ -74,3 +74,7 @@ npm i cors
 ```
 npm i --save-dev @types/cors
 ```
+
+```
+taskkill /F /IM node.exe
+```
