@@ -14,7 +14,7 @@ export function GameBanner(props: GameBannerProps) {
 
                 <span className="text-zinc-300 text-sm block">
                     {props.adsCount} 
-                    {props.adsCount == 1 ? 'anúncio' : 'anúncios' }
+                    {props.adsCount === 1 ? ' anúncio' : ' anúncios' }
                 </span>
             </div>
         </a>
