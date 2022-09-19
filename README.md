@@ -9,3 +9,4 @@
 * [React Navigation](https://reactnavigation.org/)
 * [Keen Slider](https://keen-slider.io/)
 * [Zod](https://zod.dev/)
+* [Expo DEV](https://expo.dev/)

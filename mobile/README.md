@@ -49,3 +49,19 @@ npm i phosphor-react-native
 ```
 npx expo install react-native-svg
 ```
+
+```
+npx expo install expo-clipboard
+```
+
+```
+npx expo install expo-notifications
+```
+
+```
+npx expo install expo-modules-core
+```
+
+```
+npx expo login
+```
